@@ -1,0 +1,2 @@
+H1;Hong Do;10000.0;H1 - Hong Do - 10000.0 VNĐ - Da Lat
+H2;Cuc Vang;5000.0;H2 - Cuc Vang - 5000.0 VNĐ - Ha Noi
